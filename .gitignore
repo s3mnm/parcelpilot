@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+backend/parcelpilot.db
+.pytest_cache/
+.DS_Store
